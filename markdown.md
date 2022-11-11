@@ -48,7 +48,7 @@ con salto de lineas incluídos.
 
 ### Insertar imagenes
 
-![Gabe](https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fmemes%2Fpeople%2Fgabe-newell&psig=AOvVaw0DZet9U5AX6u1wrBI-rPWQ&ust=1667654383903000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJi33OvOlPsCFQAAAAAdAAAAABAD)
+![Gabe]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fknowyourmeme.com%2Fmemes%2Fpeople%2Fgabe-newell&psig=AOvVaw0DZet9U5AX6u1wrBI-rPWQ&ust=1667654383903000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCJi33OvOlPsCFQAAAAAdAAAAABAD](https://media.gettyimages.com/id/854175700/es/foto/gabe-newell-attending-the-british-academy-video-games-awards-at-the-london-hilton-park-lane.jpg?s=2048x2048&w=gi&k=20&c=NPjTonHiCttqFDeQze1jS_74UDH7mwaS4tLuTmCSU_w=))
 
 ### Insertar enlaces
 
